@@ -1,0 +1,22 @@
+#content{
+    position: relative;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    margin: 70px;
+    border: 2px solid #dddddd;
+}
+
+
+h1{
+    font-family:'Georgia', Times, 'Times New Roman', serif;
+    color: #4aaaa5;
+    margin:5px;
+}
+p{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color:#777777;
+}
+.img-fluid{
+    margin:30px;
+}

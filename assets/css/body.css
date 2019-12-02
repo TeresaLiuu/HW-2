@@ -1,0 +1,48 @@
+.navbar-brand{
+    background-color: #4aaaa5;
+    margin:0;
+    padding:15px;
+    color:white;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-size: 35px;
+}
+.navbar-light .navbar-brand{
+    color:white;
+}
+.nav-item{
+    margin-right: 5px;
+}
+
+.contact{
+    border:transparent
+}
+a{
+    color:#cccccc;
+    font-size: 18px;
+    border-right: 2px solid #cccccc;
+}
+
+#navbar-nav{
+    display: flex;
+    flex-wrap: nowrap;
+    font-family:'Georgia', Times, 'Times New Roman', serif;
+}
+.navbar{
+    padding:0;
+    border-bottom: 2px solid #cccccc;
+}
+.nav-link{
+    padding:.01em 2rem;
+}
+body{
+    background-image:url("../images/bananas.png");
+}
+
+
+
+.sticky-footer{
+    border-top:8px solid #4aaaa5;
+    background-color: #666;
+    color:#ccc;
+    padding-top:20px;
+}

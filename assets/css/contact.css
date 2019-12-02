@@ -1,0 +1,29 @@
+#content{
+    position: relative;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    margin: 70px;
+    border: 2px solid #dddddd;
+}
+
+h1{
+    font-family:'Georgia', Times, 'Times New Roman', serif;
+    color: #4aaaa5;
+    
+}
+
+.btn{
+    background-color: #4aaaa5;
+    border:white;
+    margin:4px;
+    margin-bottom: 30px;
+}
+.form-control{
+    height:50px;
+}
+#formGroupExampleInput2{
+    height:200px;
+}
+
+
