@@ -13,10 +13,7 @@
     margin-right: 5px;
 }
 
-.contact{
-    border:transparent
-}
-a{
+.nav-item, .nav-link{
     color:#cccccc;
     font-size: 18px;
     border-right: 2px solid #cccccc;
