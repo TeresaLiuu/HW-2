@@ -13,10 +13,13 @@
     margin-right: 5px;
 }
 
-.nav-item, .nav-link{
+a{
     color:#cccccc;
     font-size: 18px;
     border-right: 2px solid #cccccc;
+}
+.contact{
+    border-right:transparent;
 }
 
 #navbar-nav{
@@ -26,7 +29,7 @@
 }
 .navbar{
     padding:0;
-    border-bottom: 2px solid #cccccc;
+    border-bottom: 5px solid #cccccc;
 }
 .nav-link{
     padding:.01em 2rem;
