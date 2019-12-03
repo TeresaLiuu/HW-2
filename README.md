@@ -3,10 +3,12 @@ This is a page about me.
 
 I've done the page mostly by bootstrap. [Here's Bootstrap link](https://getbootstrap.com/)
 
+Description of each page:
+
 
 1. About me--A short paragraph about me.
-2. Contact-- Message me.
-3. Portfolio-- Work porfolios.
+2. Contact-- Where you can message me.
+3. Portfolio-- My work porfolios.
 
 Credits:
 
