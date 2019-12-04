@@ -1,5 +1,8 @@
 # HW-2
-This is a page about me.
+Welcome!
+My name is Teresa . This is a page about me.
+
+This is a link to my page. (https://teresaliuu.github.io/HW-2/)
 
 I've done the page mostly by bootstrap. [Here's Bootstrap link](https://getbootstrap.com/)
 
